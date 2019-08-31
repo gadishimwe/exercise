@@ -1,5 +1,5 @@
 {
-  "name": "free-mentors",
+  "name": "exercise",
   "version": "1.0.0",
   "description": ">Free Mentors is a social initiative where accomplished professionals become role models to young people to provide free mentorship sessions.",
   "main": "index.js",
@@ -40,12 +40,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gadishimwe/Free-Mentors.git"
+    "url": "git+https://github.com/gadishimwe/exercise.git"
   },
   "author": "Gad Ishimwe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gadishimwe/Free-Mentors/issues"
+    "url": "https://github.com/gadishimwe/exercise/issues"
   },
-  "homepage": "https://github.com/gadishimwe/Free-Mentors#readme"
+  "homepage": "https://github.com/gadishimwe/exercise#readme"
 }
